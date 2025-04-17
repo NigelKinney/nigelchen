@@ -3,9 +3,9 @@
 #### Technical Skills: R, Python, SQL, Groundwater Modeling, Climate Modeling, Statistics and Statistical Modeling
 
 ## Education
-- Ph.D., Hydrology | Univeristy of California Berkeley (_Dec 2020_)								       		
-- M.S., Environmental Engineering	| Univeristy of California Berkeley (_May 2016_)	 			        		
-- B.S., Environmental Science | Tongji Univeristy (_June 2015_)
+- Ph.D., Hydrology                  | Univeristy of California Berkeley (_Dec 2020_)								       		
+- M.S.,  Environmental Engineering	| Univeristy of California Berkeley (_May 2016_)	 			        		
+- B.S.,  Environmental Science      | Tongji Univeristy (_June 2015_)
 
 ## Work Experience
 **Environmental Engineer @ EKI Environment & Water (_June 2021 - Present_)**

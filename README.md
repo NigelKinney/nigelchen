@@ -44,5 +44,8 @@ https://www.ekiconsult.com/practice-areas/water-resources/dst/
 10. Rubin, Y., Chang, C.-F., Chen, J., Cucchi, K., Harken, B., Heße, F., and Savoy, H.: Stochastic hydrogeology's biggest hurdles analyzed and its big blind spot, Hydrol. Earth Syst. Sci., 22, 5675–5695, https://doi.org/10.5194/hess-22-5675-2018, 2018
 11. Chen, J., Arora, B., Dafflon, B., Hubbard, S., and Rubin, Y.: Data-driven identification of environmental hot moments, in preparation
 
+## Fun Stuff!
 
+![Twilight Struggle](/assets/Twilight Struggle.jpg)
 
+![Wingspan](/assets/Wingspan.avif)

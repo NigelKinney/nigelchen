@@ -46,6 +46,15 @@ https://www.ekiconsult.com/practice-areas/water-resources/dst/
 
 ## Fun Stuff!
 
+### Twilight Struggle! 
+As a fan of strategy games, Twilight Struggle stands out as one of my favorites. Set during the Cold War, it's a brilliantly designed two-player game that blends historical events with intense decision-making, bluffing, and long-term strategy. Whether I'm playing as the US or USSR, each game offers a unique challenge in balancing global influence, military tension, and the ever-present threat of nuclear escalation. It's more than just a game — it's a mental chess match wrapped in history.
+
+You can find our TS community here - https://twilight-struggle.com/
+
+I am currently ranked #121 internationally! 
+
 ![Twilight Struggle](/Asset/Twilight Struggle.jpg)
 
+### Wingspan! 
+Wingspan is a beautifully crafted engine-building game that combines strategic depth with a relaxing, nature-inspired theme. As a bird enthusiast (at least during game night), I enjoy the challenge of building synergistic habitats while learning fun facts about real bird species. It’s a perfect blend of thoughtful planning, peaceful gameplay, and surprisingly competitive edge — a great reminder that even in games, ecosystems thrive on balance and diversity.
 ![Wingspan](/Asset/Wingspan.avif)

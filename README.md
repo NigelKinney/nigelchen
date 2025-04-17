@@ -46,6 +46,6 @@ https://www.ekiconsult.com/practice-areas/water-resources/dst/
 
 ## Fun Stuff!
 
-![Twilight Struggle](/assets/Twilight Struggle.jpg)
+![Twilight Struggle](/Asset/Twilight Struggle.jpg)
 
-![Wingspan](/assets/Wingspan.avif)
+![Wingspan](/Asset/Wingspan.avif)

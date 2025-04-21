@@ -27,7 +27,7 @@ In the Central Valley of California, there are two main types of subsidence that
 #### Shallow Subsidence (hydrocompaction)
 Shallow Subsidence is also referred as hydrocompaction, which takes place in deposits of low moisture content above the water table immediately after the application of water. This type of subsidence occurs in low-density alluvial deposits along the arid west side of the Valley where annual rainfall is insufficient to penetrate below the root zone. Below is a map that shows areas where hydrocompaction occurrs in the Valley (Lofgren 1960).
 
-![Hydrocompaction](/Asset/hydrocompaction.jpg)
+![Hydrocompaction](/Asset/hydrocompaction.png)
 
 #### Deep Subsidence (DWR, 2017)
 Deep subsidence is the land subsidence that results from the compaction of deep, overpumped aquifer systems. The aquifer system of the Valley has both unconfined and confined parts caused by alternating layers of coarse- and fine-grained sediments. Water in the coarse-grained, unconfined, water table aquifers can be extracted or recharged easily. Compaction within these layers is generally minor and elastic, which is reflected as seasonal subsidence and rebound of water levels and the land surface.

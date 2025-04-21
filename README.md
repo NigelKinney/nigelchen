@@ -29,7 +29,10 @@ Shallow Subsidence is also referred as hydrocompaction, which takes place in dep
 
 ![Hydrocompaction](/Asset/Hydrocompaction.jpg)
 
+#### Deep Subsidence (DWR, 2017)
+Deep subsidence is the land subsidence that results from the compaction of deep, overpumped aquifer systems. The aquifer system of the Valley has both unconfined and confined parts caused by alternating layers of coarse- and fine-grained sediments. Water in the coarse-grained, unconfined, water table aquifers can be extracted or recharged easily. Compaction within these layers is generally minor and elastic, which is reflected as seasonal subsidence and rebound of water levels and the land surface.
 
+Most of the subsiding area in the Valley is underlain by a continuous and extensive confining bed. Most of the groundwater overdraft and compaction caused by head decline in groundwater levels occurs in the confined aquifer system beneath this bed. the confining layer is the Pleistocene age, Corcoran clay. The boundary of the confining layer conforms fairly closely with the area affected by subsidence. In many aquifers, groundwater is pumped from pore spaces between grains of sand and gravel. If an aquifer has beds of clay or silt within or next to it, the lowered water pressure in the sand and gravel causes slow drainage of water from the clay and silt beds. the reduced water pressure represents a loss of support for the clay and silt beds. Because these beds are compressible, they compact (become thinner), and the effects are seen as a lowering of the land surface. Lnad subsidence from this process is permanent. If water levels are drawn too low, an irreversible compaction of the fine grained aquitards may occur. Recharging the aquifer until groundwater is returned to the original level will not result in appreciable ecovery of the land surface elevation. 
 
 ### Deep Learning and Evapotranspiration
 

@@ -22,6 +22,13 @@
 ## Projects
 ### Subsidence Modeling
 
+In the Central Valley of California, there are two main types of subsidence that are very important for growers and critical infrastructure - Shallow (near-surface) vs. Deep Subsidene. 
+
+#### Shallow Subsidence (hydrocompaction)
+Shallow Subsidence is also referred as hydrocompaction, which takes place in deposits of low moisture content above the water table immediately after the application of water. This type of subsidence occurs in low-density alluvial deposits along the arid west side of the Valley where annual rainfall is insufficient to penetrate below the root zone. Below is a map that shows areas where hydrocompaction occurrs in the Valley (Lofgren 1960).
+
+![Hydrocompaction](/Asset/Hydrocompaction.jpg)
+
 
 
 ### Deep Learning and Evapotranspiration
